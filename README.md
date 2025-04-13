@@ -1,2 +1,1 @@
-# Dominos---Predictive-Purchase-Order-System
-Dominos - Predictive Purchase Order System
+Domino’s is seeking to streamline its inventory and purchasing operations by developing a predictive system that forecasts ingredient needs based on future sales. The main goal is to create a smart purchase order system using historical sales and ingredient data, ensuring optimal stock levels, reducing waste, and avoiding ingredient shortages.
